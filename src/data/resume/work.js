@@ -13,49 +13,55 @@
  */
 const work = [
   {
-    name: 'Promptfoo',
-    position: 'Co-founder & CTO',
-    url: 'https://promptfoo.dev',
-    startDate: '2024-07-01',
-    summary: 'Promptfoo builds open-source tools to evaluate, find, and fix vulnerabilities in large language models (LLMs). Our open-source tools are used by over 35,000 developers and researchers worldwide.',
+    name: 'Veritas AI: CIFAR-10 Image Classification',
+    position: 'Research Intern',
+    url: 'https://www.veritasai.com',
+    startDate: '2023-08-07',
+    endDate: '2024-01-12',
+    summary: 'Veritas AI provides ambitious high school and middle school students who are passionate about AI with a suitable environment to explore their interests.',
     highlights: [
-      'Built and scaled engineering team, emphasizing diversity and open-source contribution',
-      'Established key partnerships with AI research institutions and tech companies',
+      'Utilized Data Structures and Exploratory Data Analysis to conduct ML Simple, Polynomial Regression, Model Tuning using Python',
+      'Created, published my research paper in the International Journal of Novel Research and Development (IJNRD) on using CIFAR-10 Image Classification using Deep Learning and Self Driving Cars with a CNN model of 92% accuracy using Conv2D, Data Augmentation, Transfer Learning, and Kernel_regularizers',
     ],
   },
+  /*
   {
     name: 'Smile Identity',
     position: 'VP Engineering & Head of AI',
     url: 'https://smileidentity.com',
     startDate: '2022-01-01',
     endDate: '2024-07-01',
-    summary: `Smile builds machine learning APIs to compare user submitted photos to ID documents. Our APIs are
-    used by hundreds of thousands of people every day to access financial services. As VP of Engineering,
-    I provide technical leadership on high-impact projects, influence and coach a distributed team of engineers,
-    and facilitate alignment and clarity across teams on goals, outcomes, and timelines. I was promoted
-    from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering and Head
-    of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8 engineers and spend
+    summary: `Smile builds machine learning APIs to compare user submitted photos to ID.
+    used by hundreds of thousands of people every day to access financial services.
+    I provide technical leadership on high-impact projects, influence,
+    and facilitate alignment and clarity across teams on goals, outcomes
+    from Director of Engineering to VP of Engineering in April 2022, and then to VP of Engineering
+    of AI in November 2022. I lead a 20+ person engineering org. I directly manage ~8
     >50% of my time writing code.`,
     highlights: [
-      'Redesigned engineering processes for bug tracking, meetings, and standups. Improved culture for code reviews, blameless post-mortems, and retrospectives.',
-      'Re-architected engineering hiring and onboarding processes. Recruited several strong engineers.',
-      'Reorged engineering teams to focus on product delivery. Created a new team to focus on ML infrastructure.',
-      'Lead re-design of internal APIs for inference. Built new computer vision pipelines for industry leading certifications (NIST/iBeta liveness).',
-      'Pitched, designed, developed, deployed, and maintain a fraud detection product based on 1-N facial recognition using embeddings and vector search.',
+      'Redesigned engineering processes for bug tracking, meetings, and standups.',
+      'Re-architected engineering hiring and onboarding processes. Recruited several engineers.',
+      'Created a new team to focus on ML infrastructure.',
+      'Lead re-design of internal APIs for inference. Built new computer vision pipelines',
+      'Developed, deployed, and maintain a fraud detection product based on 1-N facial recognition',
     ],
   },
+  */
   {
-    name: 'Skeptical Investments',
-    position: 'Co-founder',
-    url: 'http://skepticalinvestments.biz',
-    startDate: '2017-04-01',
-    summary: `Skeptical Investments is a micro-vc fund focused on Angel, Seed, and Series-A
-    YC companies.`,
+    name: 'Al Habtoor Group',
+    position: 'Software Engineer Intern',
+    url: 'https://www.habtoor.com/en/',
+    startDate: '2023-07-01',
+    endDate: '2023-08-12',
+    summary: 'The Al Habtoor Group has grown with the United Arab Emirates. What started out as a small engineering firm in 1970, is today one of the region\'s largest and most respected conglomerates with interests in the hospitality, automotive, car leasing, real estate, education, and publishing sectors.',
     highlights: [
-      'Created the InstaSafe. Fast, automated investment docs for YC companies.',
-      'Advise several startups in the fund.',
+      'Learned networking, hardware & delved into software as a part of the IT and Support Engineer Interns Team',
+      'Added devices to the company domain and created Al Habtoor Motors login ids and passwords',
+      'Configured Zebra handheld computers with SIM cards and introduced to API, VLAN, IP Address, networks, Ethernet',
+      'Was introduced to SQL, MySQL, ERPs for support, Microsoft Azure environment to track databases using numerous modules',
     ],
   },
+  /*
   {
     name: 'Arthena',
     position: 'Co-founder & C.T.O.',
@@ -64,61 +70,31 @@ const work = [
     endDate: '2022-01-01',
     summary: `Arthena is a Series A Company funded by <a href="https://www.anthemis.com/">Athemis</a>,
     <a href="https://foundationcapital.com">Foundation Capital</a>, and <a href="https://ycombinator.com/">YC</a>.
-    We develop quantitative strategies to predict the value of fine art and build investment products.
+    We develop quantitative strategies to predict the value.
     I ran a 20-person product and engineering org for 8 years. We were acquired by
     <a href="https://www.masterworks.com/">Masterworks</a> in 2023.`,
     highlights: [
-      'Built production, online, end-to-end optimized machine learning pipelines for time-series prediction.',
-      'Designed micro-service architecture around: data collection, data integrity, feature engineering, research, strategy, backtesting, deployment, and reporting.',
-      "Set and communicated team priorities that supported the broader organization's goals. Aligned strategy, processes, and decision-making across teams.",
-      "Set clear expectations with individuals based on their level and role and aligned them to the broader organization's goals. Met regularly with individuals to discuss performance and development, and provided feedback and coaching.",
-      'Developed the long-term technical vision and roadmap within, and often beyond, the scope of my teams. Evolved the roadmap to meet anticipated future requirements and infrastructure needs.',
+      'Built production, online, end-to-end optimiz',
+      "Set and communicated team priorities",
+      "Set clear expectations with individuals based on",
+      'Developed the long-term technical vision and roadmap within, and often beyond',
     ],
   },
+  */
   {
-    name: 'Enveritas',
-    position: 'ML Engineering Contractor',
-    url: 'http://enveritas.org',
-    startDate: '2016-09-01',
-    endDate: '2018-01-01',
-    summary: `Enveritas is a non-profit that works with coffee farmers to improve their livelihoods.
-    I joined on day one and helped build a variety of tools to collect and analyze data. I also advised
-    on technical strategy, helped hire engineers, and advised on their YC application.`,
+    name: 'Dunecrest American School',
+    position: 'Software Engineer Intern',
+    url: 'https://www.dunecrest.ae',
+    startDate: '2022-07-14',
+    endDate: '2022-08-13',
+    summary: 'Dunecrest American School is An exceptional US college prep school offering the IB Diploma in Dubai. World-class education with outstanding teachers and a warm, community feel.',
     highlights: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      "Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM's, and other techniques.",
+      'Interned under the IT Network and Support Engineers sector, and troubleshoot WIFI networks, access points, SSID',
+      'Projected, accessed information of school provided devices on smart BenQ boards with touch screen using InstaShare',
+      'Installed an MDM of Dunecrest, the Mosyle Apple MDM onto each school device',
     ],
   },
-  {
-    name: 'Zenysis',
-    position: 'Software Engineering Contractor',
-    url: 'https://zenysis.com',
-    startDate: '2016-02-01',
-    endDate: '2016-03-01',
-    summary: `Zenysis develops data analysis and visualization tools for government agencies and international organizations.
-    Their solutions help improve decision-making by integrating and analyzing large-scale datasets from various sources.
-    I was the second contributor to the codebase. We built data visualization tools and tackled complex data ingestion
-    challenges for the Ethiopian Ministry of Health.`,
-    highlights: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
-    ],
-  },
-  {
-    name: 'Matroid',
-    position: 'Co-founder',
-    url: 'https://matroid.com',
-    startDate: '2015-07-01',
-    endDate: '2016-01-01',
-    summary: `Matroid is a computer vision platform for creating and deploying detectors. Detectors help customers identify objects,
-    events, or patterns in images and videos without requiring machine learning or coding expertise. I played a crucial role in
-    defining the company's vision. I was responsible for architecting and building the initial product. I left shortly after the
-    Series A to focus on Arthena.`,
-    highlights: [
-      'Developed end to end machine learning pipeline to train visual classifiers from keywords using Caffe, Node.JS, Redis, MongoDB, and other technologies.',
-    ],
-  },
+  /*
   {
     name: 'Planet',
     position: 'Missions Intern',
@@ -127,8 +103,8 @@ const work = [
     endDate: '2015-01-01',
     highlights: [
       'Built models to improve image quality, signal to noise ratio, and dynamic range.',
-      'Performed statistical analysis of image quality in Matlab and Python.  Developed flight software in C++.',
-      'Organized first hackathon, prototyped hardware, and designed and built photography equipment for rocket launches.',
+      'Performed statistical analysis of image quality in Python.Developed flight software in C++.',
+      'Organized first hackathon, prototy',
     ],
   },
   {
@@ -162,8 +138,8 @@ const work = [
     startDate: '2013-10-01',
     endDate: '2014-10-01',
     highlights: [
-      "Elected to Board of Directors of the USA's largest student space advocacy group based on 5+ years of work with SEDS.",
-      'Responsibilities included: organizational strategy, conference presentations, fundraising, special projects, promoting SEDS nationally and internationally, and photographing conferences.',
+      "Elected to Board of Directors of the USA's largest student space advocacy grou",
+      'Responsibilities included: organizational strategy, conference presentations, fundrais',
     ],
   },
   {
@@ -173,10 +149,11 @@ const work = [
     startDate: '2010-10-01',
     endDate: '2012-06-01',
     highlights: [
-      'Coauthored grant to build a multi-spectral imaging satellite as part of the AFRL University Nanosatellite Program.',
-      'Lead a team of 60 students through satellite development life cycle. Served as a technical expert, acquired intimate working knowledge of satellite subsystems.  Solicited funding through NASA, AFOSR, and several corporate sponsors.',
+      'Coauthored grant to build a multi-spectral imaging satellite as part of the',
+      'Lead a team of 60 students through satellite development life cycle., acquired',
     ],
   },
+  */
 ];
 
 export default work;

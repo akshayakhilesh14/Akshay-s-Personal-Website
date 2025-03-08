@@ -1,47 +1,49 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
+    title: 'Veritas AI - CIFAR-10 Image Recognition',
+    subtitle: '',
+    link: 'https://www.ijnrd.org/papers/IJNRD2310207.pdf',
+    image: '/images/projects/autonomous.jpg',
+    date: '2024-01-14',
     desc:
-      'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+      'Completed a research paper on Deep Learning and Self Driving Cars under the guidance of Mr. Nowell Closser, Harvard University '
+      + 'and published my research paper in the International Journal of Novel Research and Development (IJNRD) on using CIFAR-10 Image Classification with a CNN model of 92% accuracy. '
+      + 'I used Conv2D, Data Augmentation, Transfer Learning, and Kernel_regularizers',
   },
   {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
+    title: 'The Protean Rover',
+    subtitle: 'Innovation Mela Hackathon',
+    link: 'https://drive.google.com/file/d/1oSvbiS2CPY2hdrGO6Oz3jK7fd3jT2Rm4/view?usp=sharing',
+    image: '/images/projects/protean.jpeg',
+    date: '2023-04-07',
     desc:
-      'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+      'Created a multi-purpose, highly mobile rover equipped with various tools capable of traversing different terrains and incorporated LEGO Mindstorms Motors and an Expansions Set to enable the rover to function as a moving vending machine. '
+      + 'Additionally, the rover featured cameras designed to capture 24-hour video footage. '
+      + 'Pitched this innovative idea to several investors, winning 1st prize for its health and safety scheme. '
+      + 'Documented the project in a detailed research paper.',
   },
   {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
+    title: 'GenerosityVend',
+    subtitle: 'My personal project',
+    link: 'https://drive.google.com/file/d/1Oj_K2XG1xdjsAGTROg0CL9DTrjMLSp0Q/view?usp=sharing',
+    image: '/images/projects/vend.jpeg',
+    date: '2023-08-14',
     desc:
-      'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+      'Developing a mobile app using Figma, JavaScript, CSS, React Native that aspires to'
+      + ' help people generously pay for food at vending machines for blue-collar workers to avail of free snacks. '
+      + '',
   },
   {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
+    title: 'The Farmadrone',
+    subtitle: '',
+    link: 'https://akshayakhilesh14.wixsite.com/thefarmadrone',
+    image: '/images/projects/drone.jpeg',
+    date: '2023-06-15',
     desc:
-      'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-      + 'Over 60,000 cats were classified before server bills made the project too expensive '
-      + 'to continue hosting.',
+      'Built the Farmadrone: an auto-pilot drone for efficient farming with several attachments and motors. '
+      + 'Created, fixed attachments: nozzle for fertilizers, water supply, a compost dispenser, which farmers can easily attach or remove along with '
+      + 'simple programming, and in the process of connecting wind turbines, solar panels, making batteries last as long as possible.',
   },
 ];
 

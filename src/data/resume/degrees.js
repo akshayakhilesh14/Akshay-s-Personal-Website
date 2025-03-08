@@ -1,15 +1,15 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'University of Illinois Urbana Champaign',
+    degree: 'B.S. Computer Science',
+    link: 'https://siebelschool.illinois.edu',
+    year: 2028,
   },
   {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'GEMS Modern Academy',
+    degree: 'High School Degree',
+    link: 'https://www.gemsmodernacademy-dubai.com',
+    year: 2024,
   },
 ];
 

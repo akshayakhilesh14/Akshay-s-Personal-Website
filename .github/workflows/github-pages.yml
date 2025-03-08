@@ -75,3 +75,9 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          remote_url: https://github.com/akshayakhilesh14/akshaypersonalwebsite.git
+          personal_access_token: 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
+
+
