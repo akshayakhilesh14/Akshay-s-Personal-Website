@@ -13,6 +13,17 @@
  */
 const work = [
   {
+    name: 'University of Illinois Urbana Champaign',
+    position: 'Undergraduate Researcher',
+    url: 'https://siebelschool.illinois.edu/research',
+    startDate: '2025-01-31',
+    summary: 'My research includes designing curricula and programs for K-12 students with the goal of broadening participation in computing.',
+    highlights: [
+      'Advisor: Dr. Yael Gertner',
+      'Part of the Research Team to develop a K-12 outreach project are designed to raise awareness of computer science in our community throughout the state of Illinois to provide a pathway for impactful and fulfilling career opportunities.',
+    ],
+  },
+  {
     name: 'Veritas AI: CIFAR-10 Image Classification',
     position: 'Research Intern',
     url: 'https://www.veritasai.com',

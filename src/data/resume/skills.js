@@ -64,7 +64,7 @@ const skills = [
     competency: 3,
     category: ['Python'],
   },
-  /*{
+  /* {
     title: 'English',
     competency: 5,
     category: ['Languages'],
@@ -93,7 +93,7 @@ const skills = [
     title: 'Telugu',
     competency: 3,
     category: ['Languages'],
-  },*/
+  }, */
   {
     title: 'Data Visualization',
     competency: 4,

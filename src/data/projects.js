@@ -1,6 +1,25 @@
 // TODO Add a couple lines about each project
 const data = [
   {
+    title: 'GlitchGuard',
+    subtitle: '',
+    link: 'https://devpost.com/software/glitchguard',
+    image: '/images/projects/glitch.jpg',
+    date: '2025-02-14',
+    desc:
+      'Created GlitchGuard, a test case generator and executor that automates testing, in order to reduce development time using Python and C++.'
+      + 'Integrated GlitchGuard into the CLI workflow, making it intuitive and easy to use.',
+  },
+  {
+    title: 'Project Code',
+    subtitle: '',
+    link: 'https://www.projectcodeuiuc.org',
+    image: '/images/projects/projectcode.jpg',
+    date: '2025-01-14',
+    desc:
+      'Part of the Backend Developer Team on this project with the goal to build an E-Commerce Website for UIUC students to resell their I-Clickers, IoLabs, labkits, and textbooks',
+  },
+  {
     title: 'Veritas AI - CIFAR-10 Image Recognition',
     subtitle: '',
     link: 'https://www.ijnrd.org/papers/IJNRD2310207.pdf',

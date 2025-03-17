@@ -8,16 +8,19 @@ import Experience from '../components/Resume/Experience';
 import Skills from '../components/Resume/Skills';
 import Courses from '../components/Resume/Courses';
 import References from '../components/Resume/References';
+import Leadership from '../components/Resume/Leadership';
 
 import courses from '../data/resume/courses';
 import degrees from '../data/resume/degrees';
 import work from '../data/resume/work';
+import leadership from '../data/resume/leadership';
 import { skills, categories } from '../data/resume/skills';
 
 // NOTE: sections are displayed in order defined.
 const sections = {
   Education: () => <Education data={degrees} />,
   Experience: () => <Experience data={work} />,
+  Leadership: () => <Leadership data={leadership} />,
   Skills: () => <Skills skills={skills} categories={categories} />,
   Courses: () => <Courses data={courses} />,
   References: () => <References />,
