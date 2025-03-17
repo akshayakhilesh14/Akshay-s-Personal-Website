@@ -28,7 +28,9 @@ const SideBar = () => (
         was a SWE Intern at <a href="https://www.habtoor.com/en/">Al Habtoor Group </a>
         and
         <a href="https://www.dunecrest.ae"> Dunecrest American School</a>, and
-        am a mentor at <a href="https://www.acm.illinois.edu">ACM@UIUC</a>.
+        am a mentor at <a href="https://www.acm.illinois.edu">ACM@UIUC. </a>
+        I am currently conducting research at UIUC under the guidance of
+        Dr. Yael Gertner which includes designing curricula and programs for K-12 students.
       </p>
       <ul className="actions">
         <li>
