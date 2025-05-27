@@ -20,11 +20,10 @@ In my spare time, I enjoy investing in people and ideas, focusing on innovative 
   12th Grade - 96.5%
 
 # WORK EXPERIENCES
+- **University of Illinois Urbana Champaign**, Undergraduate Researcher, Spring 2025 - Present
+- **CS 124**, Introduction to Computer Science I, Spring 2025 - Present
 - **Al Habtoor Group**, Software Engineer Intern, Summer 2023
 - **Dunecrest American School**, Software Engineer Intern, Summer 2022
-
-# WORK EXPERIENCES
-- **CS 124**, Introduction to Computer Science I, Spring 2025
 
 # Some History
 
@@ -43,15 +42,17 @@ Now, whether it’s coding a game, analyzing football stats, or exploring the la
 # I Like
 
 - Football (Soccer)
-- Skiing
-- Sailing and the sea
-- Space
+- Music
 - Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
+- Video Games
+- Coding
+- Public Speaking
+
+<!-- - [Books](https://www.goodreads.com/mdangelo)
+- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos)) -->
+<!-- - Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [The Ezra Klein Show](https://www.nytimes.com/column/ezra-klein-podcast), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others) -->
+<!-- - [Good design](/)
+- [Photography](https://instagram.com/dangelosaurus) -->
 
 # Travel / Geography
 
