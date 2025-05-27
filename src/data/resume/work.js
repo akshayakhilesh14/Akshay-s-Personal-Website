@@ -19,8 +19,8 @@ const work = [
     startDate: '2025-01-31',
     summary: 'My research includes designing curricula and programs for K-12 students with the goal of broadening participation in computing.',
     highlights: [
-      'Advisor: Dr. Yael Gertner',
-      'Part of the Research Team to develop a K-12 outreach project are designed to raise awareness of computer science in our community throughout the state of Illinois to provide a pathway for impactful and fulfilling career opportunities.',
+      'Designed and implemented interactive, Python-based data science modules for K-12 students across Illinois under Dr. Yael Gertner, using Jupyter notebooks, pandas, matplotlib, seaborn and HTML widgets to support inquiry-based learning',
+      'Developed educational tools focused on data analysis and visualization in domains such as financial literacy and public health, contributing to curriculum design aimed at broadening participation in computing',
     ],
   },
   {

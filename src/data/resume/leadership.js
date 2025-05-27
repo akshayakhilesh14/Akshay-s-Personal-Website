@@ -18,7 +18,7 @@ const work = [
     url: 'https://www.acm.illinois.edu',
     startDate: '2025-02-12',
     highlights: [
-      'Organized workshops, panel discussions, and networking events to facilitate knowledge sharing and career development among participants.',
+      'Organized workshops, panel discussions, and networking events to facilitate career development among participants and to connect peers and mentors',
     ],
   },
   {
@@ -27,7 +27,7 @@ const work = [
     url: 'https://www.cs124.org/people#assistant-tutors',
     startDate: '2025-01-01',
     highlights: [
-      'Assisted in supporting students in mastering fundamental programming concepts in Java and helping them with their Machine Problems.',
+      'Supported students in mastering fundamental programming concepts in Java and helping them with their Machine Problems',
     ],
   },
   {
@@ -37,7 +37,7 @@ const work = [
     startDate: '2022-04-04',
     endDate: '2024-03-12',
     highlights: [
-      'Led initiatives to provide a mentorship platform for 900+ students, guiding them in exploring diverse career pathways and supporting them in their academic journeys',
+      'Led a 90+ member mentorship club, offering academic and career guidance to high school students',
     ],
   },
   {
@@ -46,7 +46,7 @@ const work = [
     startDate: '2022-04-14',
     endDate: '2024-03-10',
     highlights: [
-      'Founded the inaugural 3D Game Development Club at my High School, engaging 50 members to design games using Unity.',
+      'Founded a Unity-based 3D game development club with 50+ members; directed workshops and game design sessions',
     ],
   },
 ];
