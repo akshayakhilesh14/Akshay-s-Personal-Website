@@ -66,10 +66,10 @@ const work = [
     endDate: '2023-08-12',
     summary: 'The Al Habtoor Group has grown with the United Arab Emirates. What started out as a small engineering firm in 1970, is today one of the region\'s largest and most respected conglomerates with interests in the hospitality, automotive, car leasing, real estate, education, and publishing sectors.',
     highlights: [
+      'Gained exposure to SQL, MySQL, ERPs for support, Microsoft Azure environment to track databases using modules',
       'Learned networking, hardware & delved into software as a part of the IT and Support Engineer Interns Team',
       'Added devices to the company domain and created Al Habtoor Motors login ids and passwords',
       'Configured Zebra handheld computers with SIM cards and introduced to API, VLAN, IP Address, networks, Ethernet',
-      'Was introduced to SQL, MySQL, ERPs for support, Microsoft Azure environment to track databases using numerous modules',
     ],
   },
   /*
@@ -100,9 +100,9 @@ const work = [
     endDate: '2022-08-13',
     summary: 'Dunecrest American School is An exceptional US college prep school offering the IB Diploma in Dubai. World-class education with outstanding teachers and a warm, community feel.',
     highlights: [
-      'Interned under the IT Network and Support Engineers sector, and troubleshoot WIFI networks, access points, SSID',
-      'Projected, accessed information of school provided devices on smart BenQ boards with touch screen using InstaShare',
-      'Installed an MDM of Dunecrest, the Mosyle Apple MDM onto each school device',
+      'Provided network support, troubleshooting Wi-Fi, SSIDs, and access point',
+      'Deployed “InstaShare” to enable device interaction with smart BenQ boards',
+      'Installed and managed Mosyle MDM across all school-provided Apple devices',
     ],
   },
   /*
