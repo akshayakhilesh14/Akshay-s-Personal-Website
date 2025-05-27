@@ -22,7 +22,7 @@ const SideBar = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>
-        Hi, I&apos;m Akshay. I am a freshman majoring in Computer Science at the {' '}
+        Hi, I&apos;m Akshay. I am a sophomore majoring in Computer Science at the {' '}
         <a href="https://siebelschool.illinois.edu/academics/undergraduate/degree-program-options/bs-computer-science">University of Illinois Urbana Champaign</a> My journey into the world of data science and machine learning began at an early age and I am captivated by the endless possibilities and the power to solve complex problems using technology and Artificial Intelligence.This has led me to explore and master various programming languages and frameworks.{' '}
         Previously, I
         was a SWE Intern at <a href="https://www.habtoor.com/en/">Al Habtoor Group </a>

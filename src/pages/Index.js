@@ -6,7 +6,7 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={
-      "Akshay Akhileshwaran's personal website. Freshman in CS at the University of Illinois Urbana Champaign, "
+      "Akshay Akhileshwaran's personal website. Sophomore in CS at the University of Illinois Urbana Champaign, "
       + 'Former SWE Intern at Al Habtoor Group and Dunecrest American School, Current Mentor at ACM UIUC'
     }
   >
