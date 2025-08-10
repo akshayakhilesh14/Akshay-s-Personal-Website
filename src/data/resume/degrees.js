@@ -3,7 +3,7 @@ const degrees = [
     school: 'University of Illinois Urbana Champaign',
     degree: 'B.S. Computer Science',
     link: 'https://siebelschool.illinois.edu',
-    year: 2028,
+    year: 2027,
   },
   {
     school: 'GEMS Modern Academy',
